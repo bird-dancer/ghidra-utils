@@ -1,2 +1,2 @@
 # ghidra-utils
-usefull script snippets for ghidra
+useful script snippets for ghidra
